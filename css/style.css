@@ -1,0 +1,35 @@
+
+body{
+width: 100%;
+background-color: #0da;
+font-size: 20px;
+
+}
+ h1{
+    color: #fff;
+ }
+
+ 
+img{
+    padding: 10px 10px 10px 10px;
+    border: 5px ;
+}
+.login{
+    border: 5px double #fff;
+    width: 200px;
+}
+.center{
+    text-align: center;
+}
+
+input[type = submit]{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+ border-radius: 50%;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+    }
+
